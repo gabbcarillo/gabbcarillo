@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<students>
+    <student>
+        <picture>https://cdn-icons-png.flaticon.com/512/3220/3220318.png</picture>
+        <name>Gabriella Carillo</name>
+        <course>BSIS</course>
+        <year_level>2AG1</year_level>
+        <adviser>Prof. Cruz</adviser>
+        <school_year>2024-2025</school_year>
+    </student>
+
+    <student>
+        <picture>https://cdn-icons-png.flaticon.com/512/3220/3220318.png</picture>
+        <name>Gemma Delos Reyes</name>
+        <course>BLIS</course>
+        <year_level>1BG2</year_level>
+        <adviser>Dr. Ramirez</adviser>
+        <school_year>2024-2025</school_year>
+    </student>
+
+    <student>
+        <picture>https://cdn-icons-png.flaticon.com/512/6837/6837225.png</picture>
+        <name>Reese Fajardo</name>
+        <course>BSIT</course>
+        <year_level>3AG1</year_level>
+        <adviser>Engr. Villanueva</adviser>
+        <school_year>2024-2025</school_year>
+    </student>
+
+    <student>
+        <picture>https://cdn-icons-png.flaticon.com/512/6837/6837225.png</picture>
+        <name>Haytham Yasin</name>
+        <course>BSIS</course>
+        <year_level>2AG1</year_level>
+        <adviser>Prof. Cruz</adviser>
+        <school_year>2024-2025</school_year>
+    </student>
+
+    <student>
+        <picture>https://cdn-icons-png.flaticon.com/512/3220/3220318.png</picture>
+        <name>Inah Gardon</name>
+        <course>BLIS</course>
+        <year_level>1BG2</year_level>
+        <adviser>Dr. Ramirez</adviser>
+        <school_year>2024-2025</school_year>
+    </student>
+</students>
